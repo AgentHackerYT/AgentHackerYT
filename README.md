@@ -19,6 +19,7 @@
 - Mobile Bot
 - Webify
 # 📱 Socials 
+- [NPM](https://www.npmjs.com/~jenil-dev)
 - [Instagram](https://www.instagram.com/not.jenil/)
 - [Youtube](https://www.youtube.com/channel/UCx9qjnVbHBdaUJCo4XgexXw)
 - [Discord](https://www.discord.com/users/464029590470262806)
