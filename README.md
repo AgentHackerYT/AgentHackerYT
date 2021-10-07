@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/464029590470262806.png" alt="Discord" /> </p>
 - 👋 Hi, I’m @AgentHackerYT
 - 👀 I’m interested in Coding,Gaming,etc
 - 🌱 I’m currently learning Nodejs
