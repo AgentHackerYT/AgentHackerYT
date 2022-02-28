@@ -8,11 +8,12 @@
 - 😐Average at NodeJS
 # 📽️ Projects
 - Indian Radio Bot - 100 Servers
-- Indian Radio Bot 2 - 50 Servers
-- Indian News Bot - 10 Servers
-- IPL Bot/Cricket Bot - 5 servers
-- Classify - 40 Servers
-- Profile Bot - 12 Servers
+- Indian Radio Bot 2 - 100 Servers
+- Indian Radio Bot 3 - 10 Servers
+- Indian News Bot - 10 Servers (Out of service)
+- IPL Bot/Cricket Bot - 5 servers (Out of service)
+- Classify - 40 Servers (Deprecated)
+- Profile Bot - 12 Servers (Out of service)
 - Cryptons.ga (Not Owned)
 - Many Modules 
 # 🚧 Future Projects
