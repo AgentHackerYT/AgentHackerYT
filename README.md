@@ -12,7 +12,7 @@
 - Indian Radio Bot 3 - 10 Servers
 - Indian News Bot - 10 Servers (Out of service)
 - IPL Bot/Cricket Bot - 5 servers (Out of service)
-- Classify - 40 Servers (Deprecated) (Because of 200+ Commands and 300+ Files to Update)
+- Classify - 40 Servers (Deprecated) (Because of 300+ Files to Update)
 - Profile Bot - 12 Servers (Out of service)
 - Cryptons.ga (Not Owned)
 - Many Modules 
