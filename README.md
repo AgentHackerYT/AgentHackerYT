@@ -17,8 +17,8 @@
 - Cryptons.ga (Not Owned)
 - Many Modules 
 # 🚧 Future Projects
-- Mobile Bot
-- Webify
+- Economy Bot
+- Lo-Fi Website
 # 📱 Socials 
 - [NPM](https://www.npmjs.com/~jenil-dev)
 - [Instagram](https://www.instagram.com/not.jenil/)
