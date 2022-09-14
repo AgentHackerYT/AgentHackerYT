@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-4/464029590470262806.png" alt="Discord" /> </p>
-<img align="center" src="https://profile-counter.glitch.me/AgentHackerYT/count.svg">
+<p align="center"> <img src="https://profile-counter.glitch.me/AgentHackerYT/count.svg"></p>
 
 # 👋 Hi There , I am Agent Hacker
 - 🖥️ I Love to code
