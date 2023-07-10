@@ -4,7 +4,7 @@
 # 👋 Hi There , I am Agent Hacker
 - 🖥️ I Love to code
 - 😐 Average at backand
-- 💼 Discord Moderator , Admin , Developer
+- 💼 Student , Developer
 - ✌️ I Make APIs , Bots , NPM Packages 
 - 😐Average at NodeJS
 # 📽️ Projects
