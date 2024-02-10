@@ -2,8 +2,7 @@
 <p align="center"> <img src="https://profile-counter.glitch.me/AgentHackerYT/count.svg"></p>
 
 # 👋 Hi There , I am Agent Hacker
-- 🖥️ I Love to code
-- 😐 Average at backand
+- 🖥️ I Love to code, game
 - 💼 Student , Developer
 - ✌️ I Make APIs , Bots , NPM Packages 
 - 😐Average at NodeJS
