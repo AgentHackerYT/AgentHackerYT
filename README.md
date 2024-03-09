@@ -6,7 +6,7 @@
 - 💼 Student , Developer
 - ✌️ I Make APIs , Bots , NPM Packages 
 - 😐Average at NodeJS
-# 📽️ Projects
+# 📽️ Projects (Non of the followingf are active)
 - Indian Radio Bot - 100 Servers
 - Indian Radio Bot 2 - 100 Servers
 - Indian Radio Bot 3 - 10 Servers
@@ -16,7 +16,6 @@
 - Classify - 40 Servers (Deprecated) (Because of 300+ Files to Update) (v12.5.3)
 - Profile Bot - 12 Servers (Out of service)
 - Cryptons.ga (Not Owned)
-- Many NPM Packages
 # 🚧 Future Projects
 - Economy Bot
 - Lo-Fi Website
