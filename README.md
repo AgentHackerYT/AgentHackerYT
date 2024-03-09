@@ -6,7 +6,7 @@
 - 💼 Student , Developer
 - ✌️ I Make APIs , Bots , NPM Packages 
 - 😐Average at NodeJS
-# 📽️ Projects (Non of the followingf are active)
+# 📽️ Projects (Non of the following are active)
 - Indian Radio Bot - 100 Servers
 - Indian Radio Bot 2 - 100 Servers
 - Indian Radio Bot 3 - 10 Servers
