@@ -20,6 +20,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentHackerYT&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AgentHackerYT&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
+</p>
 # 📽️ Projects (Non of the following are active)
 - Indian Radio Bot - 100 Servers
 - Indian Radio Bot 2 - 100 Servers
