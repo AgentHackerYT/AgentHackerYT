@@ -2,9 +2,9 @@
   <img src="https://discord.c99.nl/widget/theme-4/464029590470262806.png" alt="Discord" /> 
 </p>
 
-<p align="center"> 
+<!--<p align="center"> 
   <img src="https://profile-counter.glitch.me/AgentHackerYT/count.svg" alt="Visitor Count">
-</p>
+</p>-->
 
 # 👋 Hi There, I'm Agent Hacker!
 
