@@ -64,7 +64,7 @@ I’ve worked on many cool projects over time. While most are no longer active, 
 - **Radio Box** - 80 Servers
 - **Indian News Bot** - 10 Servers *(Out of Service)*
 - **IPL Bot/Cricket Bot** - 5 Servers *(Out of Service)*
-- **Classify** - 40 Servers *(Deprecated due to needing 300+ files updated)*
+- **Classify** - 40 Servers *(Deprecated)*
 - **Profile Bot** - 12 Servers *(Out of Service)*
 - **Cryptons.ga** - *(Not Owned)*
 
