@@ -10,16 +10,13 @@ I'm a CS undergrad and developer. I spend most of my time messing around with ba
 
 ### what i'm up to
 - 🎓 Studying Computer Science & Engineering.
-- 🛠️ Building things with **Node.js**, **Python**, **Electron**, and **C**
-- 💻 Maintaining utilities like **[Reset-NGC](https://github.com/AgentHackerYT/Reset-NGC)** and publishing packages on **[NPM (~jenil-dev)](https://www.npmjs.com/~jenil-dev)**.
-- 🧠 Getting better at system architecture and LeetCode one day at a time.
-
+- 🛠️ Building things with **Node.js**, **Python**, and **C**
 ---
 
 ### languages & tools i actually use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,py,c,electron,git,github,linux,vscode" alt="Tech Stack" />
+ <img src="https://skillicons.dev/icons?i=js,nodejs,py,c,express,electron,discordjs,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
