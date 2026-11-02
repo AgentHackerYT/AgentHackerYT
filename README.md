@@ -24,7 +24,7 @@ I'm a CS undergrad and developer. I spend most of my time messing around with ba
 ### the project graveyard 🪦 (archived stuff)
 
 Back in the day, I built and ran a bunch of Discord bots and web projects. Most of these are deprecated or offline now, but they were fun while they lasted:
-* **stream.fr** — A multi-source streaming platform.
+* **[stream.fr](https://github.com/bhaiaajo/streamfr)** — A multi-source streaming platform.
 * **Indian Radio Bot (v1, v2 & v3)** — Live radio streaming bots that peaked around 200+ servers combined (and 10k+ users).
 * **Radio Box** — Another audio bot experiment (~80 servers).
 * **Classify** — Server utility bot (~40 servers, deprecated).
